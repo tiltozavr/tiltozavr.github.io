@@ -1,0 +1,517 @@
+.body {
+    margin: 0;
+}
+
+.main-container {
+    background-color: white;
+    /* height: 100vh; */
+    margin: 0;
+    /* padding: 0; */
+}
+
+.content-container {
+    background-color: #0C0C31;
+    height: 5559px;
+    width: 1440px;
+    margin-left: auto; 
+    margin-right: auto;
+    /* padding-top: 0; */
+}
+
+.PV {
+    position: absolute;
+    width: 148px;
+    height: 72px;
+    left: 202px;
+    top: 36px;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 72px;
+}
+
+.text-in-top {
+    position: absolute;
+    width: 186px;
+    height: 35px;
+    left: 584px;
+    top: 54px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.price {
+    width: 182px;
+    height: 35px;
+    left: 820px;
+    top: 54px;
+}
+
+.contacts {
+    width: 160px;
+    height: 35px;
+    left: 1069px;
+    top: 54px;
+}
+
+.line {
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 18px;
+    top: 143px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0.5px solid #D61F1F;
+}
+
+.web-designer {
+    position: absolute;
+    width: 880px;
+    height: 72px;
+    left: 189px;
+    top: 323px;
+    color: white;
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 72px;
+}
+
+.surname {
+    width: 689px;
+    height: 72px;
+    left: 425px;
+    top: 495px;
+    text-align: right;
+}
+
+.firstname {
+    left: 559px;
+    top: 591px;
+    text-align: right;
+}
+
+.rainbowkitty {
+    position: absolute;
+    width: 203px;
+    height: 124px;
+    /* left: 84px;
+    top: 573px; */
+    transition: left, top;
+    transition-duration: 2000ms;
+}
+
+.line2 {
+    top: 843px;
+}
+
+.sites {
+    width: 825px;
+    height: 138px;
+    left: 428px;
+    top: 1023px;
+    font-size: 45px;
+    line-height: 64px;  
+}
+
+.mushroom {
+    position: absolute;
+    width: 180px;
+    height: 182px;
+    left: 222px;
+    top: 1231px;
+}
+
+.text-secret {
+    width: 772px;
+    height: 140px;
+    left: 466px;
+    top: 1231px;
+}
+
+.text-famous {
+    position: absolute;
+    width: 765px;
+    height: 70px;
+    left: 466px;
+    top: 1401px;
+}
+
+.readyprojects {
+    position: absolute;
+    width: 676px;
+    height: 138px;
+    left: 202px;
+    top: 1831px;
+}
+
+.sittingkitty {
+    position: absolute;
+    width: 246px;
+    height: 262px;
+    left: 904px;
+    top: 1819px;
+}
+
+.box {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 518px;
+    height: 419.09px;
+    left: 202px;
+    top: 2039px;
+
+    background: #3A3ACF;
+    border: 3px solid #0C0C31;
+}
+
+.tour {
+    position: absolute;
+    width: 405px;
+    height: 35px;
+    left: 262px;
+    top: 2231px;
+}
+
+.box2 {
+    position: absolute;
+    width: 518px;
+    height: 419.09px;
+    left: 720px;
+    top: 2039px;
+}
+
+.grooming {
+    position: absolute;
+    width: 427px;
+    height: 35px;
+    left: 765px;
+    top: 2231px;
+}
+
+.box3 {
+    position: absolute;
+    width: 518px;
+    height: 419.09px;
+    left: 202px;
+    top: 2458px;
+}
+
+.restaurant {
+    position: absolute;
+    width: 347px;
+    height: 35px;
+    left: 287px;
+    top: 2650px;
+}
+
+.box4 {
+    position: absolute;
+    width: 518px;
+    height: 419.09px;
+    left: 720px;
+    top: 2458px;
+}
+
+.makeup {
+    position: absolute;
+    width: 430px;
+    height: 70px;
+    left: 764px;
+    top: 2633px;
+    text-align: center;
+}
+
+.prices {
+    position: absolute;
+    width: 676px;
+    height: 62px;
+    left: 202px;
+    top: 3237px;
+}
+
+.onepage {
+    position: absolute;
+    width: 291px;
+    height: 35px;
+    left: 202px;
+    top: 3369px;
+    font-weight: 400;
+}
+
+.textforonepage {
+    position: absolute;
+    width: 596px;
+    height: 42px;
+    left: 202px;
+    top: 3444px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.from1 {
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    left: 981px;
+    top: 3369px;
+}
+
+.sum1 {
+    position: absolute;
+    width: 210px;
+    height: 64px;
+    left: 1028px;
+    top: 3354px;
+    font-size: 30px;
+}
+
+.line3 {
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    top: 3536px;
+}
+
+.manypage {
+    top: 3586px;
+    width: 311px;
+}
+
+.textformorepage {
+    position: absolute;
+    width: 596px;
+    height: 63px;
+    left: 202px;
+    top: 3661px;
+}
+
+.from2 {
+    top: 3586px;
+}
+
+.sum2 {
+    top: 3571px;
+}
+
+.line4 {
+    top: 3774px;
+}
+
+.internetshop {
+    position: absolute;
+    width: 302px;
+    height: 35px;
+    left: 202px;
+    top: 3824px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+}
+
+.textforinternetshop {
+    position: absolute;
+    width: 596px;
+    height: 42px;
+    left: 202px;
+    top: 3899px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.from3 {
+    top: 3824px;
+}
+
+.sum3 {
+    top: 3809px;
+}
+
+.line5 {
+    top: 3991px;
+}
+
+.finaltext {
+    position: absolute;
+    width: 596px;
+    height: 42px;
+    left: 222px;
+    top: 4031px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.line6 {
+    top: 4133px;
+}
+
+.box5 {
+    position: absolute;
+    width: 1036px;
+    height: 419px;
+    left: 202px;
+    top: 4352px;
+}
+
+.cooperation {
+    position: absolute;
+    width: 676px;
+    height: 62px;
+    left: 382px;
+    top: 4443px;
+
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 64px;
+    /* or 142% */
+
+
+    color: #FFFFFF;
+}
+
+.recommendation {
+    position: absolute;
+    width: 912px;
+    height: 106px;
+    left: 264px;
+    top: 4575px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+.socialnetwork {
+    position: absolute;
+    width: 621px;
+    height: 42px;
+    left: 197px;
+    top: 5141px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.instagram {
+    position: absolute;
+width: 451px;
+height: 62px;
+left: 202px;
+top: 5253px;
+
+font-family: 'Press Start 2P';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 64px;
+/* or 213% */
+
+
+color: #FFFFFF;
+}
+
+.whatsapp {
+    position: absolute;
+width: 451px;
+height: 62px;
+left: 730px;
+top: 5253px;
+
+font-family: 'Press Start 2P';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 64px;
+/* or 213% */
+
+
+color: #FFFFFF;
+}
+
+.telegram {
+    position: absolute;
+width: 451px;
+height: 62px;
+left: 202px;
+top: 5365px;
+
+font-family: 'Press Start 2P';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 64px;
+/* or 213% */
+
+
+color: #FFFFFF;
+}
+
+.vk {
+    position: absolute;
+width: 451px;
+height: 62px;
+left: 730px;
+top: 5365px;
+
+font-family: 'Press Start 2P';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 64px;
+/* or 213% */
+
+
+color: #FFFFFF;
+}
+
+.heartimgdiv {
+    position: absolute;
+left: 1032px;
+top: 5089px;
+}
+
+.heartimg {
+    position: absolute;
+    left: 1032px;
+    top: 5089px; 
+}
